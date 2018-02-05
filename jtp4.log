@@ -1,0 +1,7 @@
+2018-02-05 01:08:56,839 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Styczeñ 1 31
+2018-02-05 01:08:56,842 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Marzec 3 31
+2018-02-05 01:08:56,842 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Maj 5 31
+2018-02-05 01:08:56,842 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Lipiec 7 31
+2018-02-05 01:08:56,842 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Sierpieñ 8 31
+2018-02-05 01:08:56,843 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Pazdziernik 10 31
+2018-02-05 01:08:56,843 INFO  [main] lab4.EnumTest (EnumTest.java:12) - Grudzieñ 12 31
